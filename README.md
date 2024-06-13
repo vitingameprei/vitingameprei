@@ -6,4 +6,4 @@ Meu nome é Vitor
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo este espaço para compartilhar meus projetos
   
-https://media1.tenor.com/m/4FgUpn0lDlcAAAAC/what-huh.gif
+![](https://media1.tenor.com/m/4FgUpn0lDlcAAAAC/what-huh.gif)
